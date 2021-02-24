@@ -5,4 +5,4 @@
 
 저장소에 대한 소개글을 작성합니다.
 
-![러버덕](./images/duck.jpg)
+![러버덕](./images/rubber duck.jpg)
